@@ -1,7 +1,7 @@
 ### Hi people 👋
 
 - 🔭 I’m currently working on Frontend Foxes School - Frontend Bootcamp
-- 🌱 I’m currently learning Node.JS, Vue JS
+- 🌱 I’m currently learning Node.JS, Vue JS and React
 - 📫 How to reach me: <a href="https://twitter.com/iEdaYavuz" target="_blank">@iEdaYavuz</a>
 - 😄 Pronouns: she/her
 
