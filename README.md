@@ -1,6 +1,6 @@
 ### Hi people 👋
 
-- 🔭 I’m currently working on Frontend Foxes School - Frontend Bootcamp
+- 🔭 I’m currently working on Vue.JS banking app
 - 🌱 I’m currently learning Node.JS, Vue JS
 - 📫 Reach me <a href="https://thisiseda.netlify.app/contact" target="_blank">here</a>
 - 🐦 Follow me on twitter  <a href="https://twitter.com/iEdaYavuz" target="_blank">@iEdaYavuz</a>
