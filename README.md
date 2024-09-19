@@ -1,7 +1,7 @@
 ### Hi people 👋
 
-- 🔭 I’m currently working on a browser extension for regional carbon footprint.
-- 🌱 I’m currently learning Node.JS, Vue.JS
+- 🔭 I’m currently working on surviving.
+- 🌱 I’m currently teaching Java and MySQL
 - 📫 Reach me <a href="https://thisiseda.netlify.app/contact" target="_blank">here</a>
 - 🐦 Follow me on twitter  <a href="https://twitter.com/iEdaYavuz" target="_blank">@iEdaYavuz</a>
 - 💁‍♀️ See my <a href="https://thisisEda.netlify.app" target="_blank">portfolio</a>
